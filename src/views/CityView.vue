@@ -13,6 +13,6 @@
 
 <script setup>
   import AsyncCityView from "../components/AsyncCityView.vue"
-  import CityViewSkeleton from "../components/CityViewSkeleton.vue"
+  import CityViewSkeleton from "../components/SkelteonPlaceholder/CityViewSkeleton.vue"
 </script>
 

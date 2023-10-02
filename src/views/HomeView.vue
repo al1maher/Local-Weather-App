@@ -45,7 +45,7 @@
   import axios from 'axios';
   import { useRouter } from 'vue-router';
   import CityList from "../components/CityList.vue"
-  import CityCardSkeleton from "../components/CityCardSkeleton.vue"
+  import CityCardSkeleton from "../components/SkelteonPlaceholder/CityCardSkeleton.vue"
 
   const router = useRouter();
   const searchQuery = ref('');
